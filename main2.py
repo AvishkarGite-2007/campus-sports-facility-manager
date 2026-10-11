@@ -1,16 +1,3 @@
-# =====================================================
-# Campus Sports Booking - Simple Version
-# =====================================================
-# Uses only what is taught in the PPL Module 5 slides:
-#   Tk(), Frame, Label, Entry, Button, Listbox,
-#   grid(), command=function, messagebox, mainloop()
-#
-# Before running:
-#   1. Run database.sql in MySQL first
-#   2. Type your MySQL password below
-#   3. Install the MySQL library:  pip install mysql-connector-python
-# =====================================================
-
 from tkinter import *
 from tkinter import messagebox
 from datetime import datetime, date, timedelta
